@@ -1,0 +1,25 @@
+{
+  "name": "printcmd",
+  "version": "1.0.0",
+  "description": "You can use print(\"example\") instead of console.log(\"example\")",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaxy202/nodejsprint.git"
+  },
+  "keywords": [
+    "print",
+    "pytojs",
+    "useless",
+    "funny"
+  ],
+  "author": "GalaxyDevel0per",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galaxy202/nodejsprint/issues"
+  },
+  "homepage": "https://github.com/Galaxy202/nodejsprint#readme"
+}
